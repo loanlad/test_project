@@ -1,8 +1,8 @@
 {
     "packageRules": [
         {
-            "description": "Automerge non-major updates",
-            "matchUpdateTypes": ["minor", "patch"],
+            "description": "Automerge all updates",
+            // "matchUpdateTypes": ["minor", "patch"],
             "automerge": true,
             "ignoreTests": true
         }
